@@ -1,16 +1,33 @@
-## Hi there 👋
+✨ About Me
+Hi! I'm Andrey Reinz, a Frontend Developer specializing in modern, high-performance web applications. I love turning complex ideas into intuitive, blazing-fast interfaces with clean code and cutting-edge tech.
 
-<!--
-**AndreyReinz/AndreyReinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+Languages: JavaScript/TypeScript
 
-Here are some ideas to get you started:
+Frameworks: React, SolidJS, Svelte
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Styling: TailwindCSS, UnoCSS, CSS Modules
+
+Build Tools: Vite, BunJS, Webpack
+
+Backend Touch: Node.js, Express, PostgreSQL
+
+Tools: Git, Docker, Zed, Arch Linux
+
+🔥 What I Bring to the Table
+✔ Performance-first mindset – Optimized renders, lazy loading, and minimal JS.
+✔ Pixel-perfect UI/UX – From Figma to flawless implementation.
+✔ Clean, maintainable code – SOLID principles, TypeScript, and scalable architecture.
+✔ Passion for open-source – Love contributing and collaborating on cool projects.
+
+🚀 Current Focus
+
+Learning advanced animations (GSAP, Framer Motion).
+
+Exploring WebAssembly & Rust for frontend.
+
+📫 Let’s Connect!
+Open to collaborations, freelance work, and innovative projects.
+
+🌐 Portfolio: andreyreinz.github.io
+Code with passion, ship with precision. 💻✨
