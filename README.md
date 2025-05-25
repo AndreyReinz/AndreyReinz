@@ -29,17 +29,8 @@ I love turning **complex ideas** into **intuitive**, blazing-fast interfaces wit
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-###
-
 <img src="https://raw.githubusercontent.com/sensei-this/sensei-this/main/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=sensei-this&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
 ---
 
 ## 🔥 **What I Bring to the Table**  
